@@ -7,3 +7,13 @@ body,
 :root {
   height: 100%;
 }
+
+/* .nav_link::after {
+  content: '';
+  height: 2px;
+  width: 100%;
+  background: #4FBBB2;
+  position: absolute;
+  left: 0;
+  bottom: -8px;
+} */
